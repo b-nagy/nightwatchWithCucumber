@@ -1,1 +1,0 @@
-presentedby = '[{ "value" : "Személyes megjelenés" }, { "value" : "Meghatalmazott eljárása" }, { "value" : "Kiskorú törvényes képviselője" }, { "value" : "Gondnokolt törvényes képviselője" }]';

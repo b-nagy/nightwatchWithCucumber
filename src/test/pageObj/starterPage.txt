@@ -1,8 +1,0 @@
-module.exports = {
-    'StarterPage': function(browser){
-        browser
-            .url('file:///C:/Users/nagyb2/Desktop/js_com/index.html')
-            .useXpath().click(`//*[contains(text(), "checkProba")]`)
-            .end();
-    }
-};

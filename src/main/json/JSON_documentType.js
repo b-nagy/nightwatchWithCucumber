@@ -1,1 +1,0 @@
-documentType = '[{ "value" : "Magánútlevél" }, { "value" : "Szolgálati útlevél" }, { "value" : "Hajós szolgálati útlevél" }]';
